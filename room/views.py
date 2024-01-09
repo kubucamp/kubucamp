@@ -58,4 +58,4 @@ def initialize_rooms_without_request():
                         continue
 
     return HttpResponse("Room initialization completed.")
-#South–South cooperation (Kerja sama Selatan-Selatan)
+#South–South cooperation (Kerja sama Selatan-Selatan) ind
